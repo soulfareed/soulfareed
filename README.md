@@ -1,7 +1,7 @@
-### Hi there a passionate coder 👋
+### Hi there,i'm Fareed 👋
 
 <!-- `README.md` (this file) appears on your GitHub profile.
-
+A passionate coder
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on html,css and javascript
